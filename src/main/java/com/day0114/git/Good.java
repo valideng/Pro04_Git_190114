@@ -4,7 +4,7 @@ public class Good {
 
 	//today is a nice day
 	
-	//today is a good day
+	//today is a good day--->edit by hotfix
 	
 	//edit by pro4
 	
